@@ -21,6 +21,7 @@ Written by the operator, from campaigns actually run in 2024–2025:
 4. [Metrics & review](docs/04-metrics-and-review.md) — per-account ROI, review cadence, kill criteria
 5. [Case study: Pirate Nation](docs/05-case-pirate-nation.md)
 6. [Case study: MapleStory N](docs/06-case-maplestory-n.md)
+7. [Community cold start: 0 → 1 checklist](docs/community-cold-start-checklist.md) — pre-launch prep, seed users, first-week activities, daily cadence, review metrics
 
 ## Operating principles
 
