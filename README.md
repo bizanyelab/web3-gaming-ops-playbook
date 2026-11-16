@@ -32,4 +32,4 @@ Written by the operator, from campaigns actually run in 2024–2025:
 
 ---
 
-*By [BizAnyE](https://github.com/bizanye8) — founder-operator, Youjian game-asset trading platform. These notes describe operations management practice; they are not investment advice.*
+*By [BizAnyE](https://github.com/bizanyelab) — founder-operator, Youjian game-asset trading platform. These notes describe operations management practice; they are not investment advice.*
